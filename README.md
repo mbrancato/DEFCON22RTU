@@ -17,3 +17,5 @@ Acknowledgements
 - Based on code originally supplied by Olivier Jauzelon.
 - Kurenko - for his help with word/long/byte confusion.
 - Jon "JonnyMac" McPhalen and Ryan "1o57" Clarke for the DC22 badge design and source.
+
+Original source code before fork is located here: http://obex.parallax.com/object/687
